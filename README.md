@@ -1,0 +1,3 @@
+# USB-2.0-HUB
+主控SL2.1A的HUB
+PCB使用立创EDA设计
